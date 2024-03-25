@@ -1,0 +1,175 @@
+#EXTINF:0 CUID="2989" tvg-name="CCTV-1HD" tvg-id="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV1.png" group-title="央视频道",CCTV-1HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226446/10000100000000060000000000870185_0.smil
+#EXTINF:0 CUID="2990" tvg-name="CCTV-2HD" tvg-id="CCTV2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV2.png" group-title="央视频道",CCTV-2HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226445/10000100000000060000000000870187_0.smil
+#EXTINF:0 CUID="2991" tvg-name="CCTV-3HD" tvg-id="CCTV3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV3.png" group-title="央视频道",CCTV-3HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226422/10000100000000060000000000808184_0.smil
+#EXTINF:0 CUID="2992" tvg-name="CCTV-4HD" tvg-id="CCTV4" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV4.png" group-title="央视频道",CCTV-4HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226450/10000100000000060000000000870191_0.smil
+#EXTINF:0 CUID="2993" tvg-name="CCTV-5HD" tvg-id="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV5.png" group-title="央视频道",CCTV-5HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226423/10000100000000060000000000808427_0.smil
+#EXTINF:0 CUID="2994" tvg-name="CCTV-6HD" tvg-id="CCTV6" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV6.png" group-title="央视频道",CCTV-6HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226426/10000100000000060000000000808425_0.smil
+#EXTINF:0 CUID="2995" tvg-name="CCTV-7HD" tvg-id="CCTV7" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV7.png" group-title="央视频道",CCTV-7HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226452/10000100000000060000000000870192_0.smil
+#EXTINF:0 CUID="2996" tvg-name="CCTV-8HD" tvg-id="CCTV8" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV8.png" group-title="央视频道",CCTV-8HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226444/10000100000000060000000000808423_0.smil
+#EXTINF:0 CUID="2997" tvg-name="CCTV-9HD" tvg-id="CCTV9" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV9.png" group-title="央视频道",CCTV-9HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226443/10000100000000060000000000870186_0.smil
+#EXTINF:0 CUID="2998" tvg-name="CCTV-10HD" tvg-id="CCTV10" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV10.png" group-title="央视频道",CCTV-10HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226454/10000100000000060000000000870188_0.smil
+#EXTINF:0 CUID="2999" tvg-name="CCTV-11HD" tvg-id="CCTV11" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV11.png" group-title="央视频道",CCTV-11HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226102/10000100000000060000000000719622_0.smil
+#EXTINF:0 CUID="3000" tvg-name="CCTV-12HD" tvg-id="CCTV12" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV12.png" group-title="央视频道",CCTV-12HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226447/10000100000000060000000000870190_0.smil
+#EXTINF:0 CUID="3001" tvg-name="CCTV-13HD" tvg-id="CCTV13" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV13.png" group-title="央视频道",CCTV-13HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil
+#EXTINF:0 CUID="3002" tvg-name="CCTV-14HD" tvg-id="CCTV14" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV14.png" group-title="央视频道",CCTV-14HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226456/10000100000000060000000000870189_0.smil
+#EXTINF:0 CUID="3003" tvg-name="CCTV-15HD" tvg-id="CCTV15" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV15.png" group-title="央视频道",CCTV-15HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226103/10000100000000060000000000719621_0.smil
+#EXTINF:0 CUID="3004" tvg-name="CCTV-16HD" tvg-id="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV16.png" group-title="央视频道",CCTV-16HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226635/404077257.smil
+#EXTINF:0 CUID="3005" tvg-name="CCTV-17HD" tvg-id="CCTV17" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV17.png" group-title="央视频道",CCTV-17HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226654/394801661.smil
+#EXTINF:0 CUID="3006" tvg-name="CCTV-5+HD" tvg-id="CCTV5+" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV5+.png" group-title="央视频道",CCTV-5+HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226077/10000100000000060000000000662662_0.smil
+#EXTINF:0 CUID="4357" tvg-name="CCTV-4KUHD" tvg-id="CCTV4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV4K.png" group-title="央视频道",CCTV-4KUHD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226776/475516698.smil
+
+#EXTINF:0 CUID="3008" tvg-name="湖南卫视HD" tvg-id="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/hunan.png" group-title="卫视频道",湖南卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226449/10000100000000060000000000871723_0.smil
+#EXTINF:0 CUID="3009" tvg-name="浙江卫视HD" tvg-id="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/zhejiang.png" group-title="卫视频道",浙江卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226460/10000100000000060000000000871725_0.smil
+#EXTINF:0 CUID="3010" tvg-name="江苏卫视HD" tvg-id="江苏卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/jiangsu.png" group-title="卫视频道",江苏卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226451/10000100000000060000000000871724_0.smil
+#EXTINF:0 CUID="3011" tvg-name="东方卫视HD" tvg-id="东方卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/dongfang.png" group-title="卫视频道",东方卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226484/10000100000000060000000000873018_0.smil
+#EXTINF:0 CUID="3012" tvg-name="北京卫视HD" tvg-id="北京卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/beijing.png" group-title="卫视频道",北京卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226462/10000100000000060000000000871722_0.smil
+#EXTINF:0 CUID="3013" tvg-name="天津卫视HD" tvg-id="天津卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/tianjin.png" group-title="卫视频道",天津卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226459/10000100000000060000000000873019_0.smil
+#EXTINF:0 CUID="3014" tvg-name="广东卫视HD" tvg-id="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/guangdong.png" group-title="卫视频道",广东卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226458/10000100000000060000000000871726_0.smil
+#EXTINF:0 CUID="3015" tvg-name="深圳卫视HD" tvg-id="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/shenzhen.png" group-title="卫视频道",深圳卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226476/10000100000000060000000000873016_0.smil
+#EXTINF:0 CUID="3016" tvg-name="东南卫视HD" tvg-id="东南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/dongnan.png" group-title="卫视频道",东南卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226457/10000100000000060000000000873026_0.smil
+#EXTINF:0 CUID="3017" tvg-name="辽宁卫视HD" tvg-id="辽宁卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/liaoning.png" group-title="卫视频道",辽宁卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226468/10000100000000060000000000871728_0.smil
+#EXTINF:0 CUID="3018" tvg-name="山东卫视HD" tvg-id="山东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/shandong.png" group-title="卫视频道",山东卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226455/10000100000000060000000000873014_0.smil
+#EXTINF:0 CUID="3019" tvg-name="河北卫视HD" tvg-id="河北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/hebei.png" group-title="卫视频道",河北卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226464/10000100000000060000000000871729_0.smil
+#EXTINF:0 CUID="3020" tvg-name="安徽卫视HD" tvg-id="安徽卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/anhui.png" group-title="卫视频道",安徽卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226480/10000100000000060000000000873020_0.smil
+#EXTINF:0 CUID="3021" tvg-name="湖北卫视HD" tvg-id="湖北卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/hubei.png" group-title="卫视频道",湖北卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226472/10000100000000060000000000871727_0.smil
+#EXTINF:0 CUID="3023" tvg-name="贵州卫视HD" tvg-id="贵州卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/guizhou.png" group-title="卫视频道",贵州卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226466/10000100000000060000000000873021_0.smil
+#EXTINF:0 CUID="3025" tvg-name="四川卫视HD" tvg-id="四川卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/sichuan.png" group-title="卫视频道",四川卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226453/10000100000000060000000000873023_0.smil
+#EXTINF:0 CUID="4768" tvg-name="江西卫视" tvg-id="江西卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/jiangxi.png" group-title="内蒙联通单播http",江西卫视
+rtsp://10.11.43.21/PLTV/88888912/224/3221226711/454789112.smil
+#EXTINF:0 CUID="4769" tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/chongqing.png" group-title="内蒙联通单播http",重庆卫视
+rtsp://10.11.43.21/PLTV/88888912/224/3221226715/454789108.smil
+#EXTINF:0 CUID="3026" tvg-name="海南卫视HD" tvg-id="海南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/hainan.png" group-title="卫视频道",海南卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226622/383026202.smil
+#EXTINF:0 CUID="3027" tvg-name="甘肃卫视HD" tvg-id="甘肃卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/gansu.png" group-title="卫视频道",甘肃卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226707/454789116.smil
+#EXTINF:0 CUID="3028" tvg-name="吉林卫视HD" tvg-id="吉林卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/jilin.png" group-title="卫视频道",吉林卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226733/454789104.smil
+#EXTINF:0 CUID="3030" tvg-name="内蒙古卫视HD" tvg-id="内蒙古卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/neimenggu.png" group-title="卫视频道",内蒙古卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226078/10000100000000060000000000662786_0.smil
+#EXTINF:0 CUID="3029" tvg-name="黑龙江卫视HD" tvg-id="黑龙江卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/heilongjiang.png" group-title="卫视频道",黑龙江卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226488/10000100000000060000000000873017_0.smil
+#EXTINF:0 CUID="3031" tvg-name="纪实人文HD" tvg-id="上海纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/jishirenwen.png" group-title="卫视频道",纪实人文HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226489/10000100000000060000000001119244_0.smil
+#EXTINF:0 CUID="3032" tvg-name="金鹰纪实HD" tvg-id="金鹰纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/jinyingjishi.png" group-title="卫视频道",金鹰纪实HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226506/10000100000000060000000001119245_0.smil?
+#EXTINF:0 CUID="3033" tvg-name="冬奥纪实HD" tvg-id="冬奥纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/dongaojishi.png" group-title="卫视频道",冬奥纪实HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226512/10000100000000060000000001119242_0.smil
+#EXTINF:0 CUID="3034" tvg-name="中国教育1台HD" tvg-id="中国教育1台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/cetv1.png" group-title="卫视频道",中国教育1台HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226508/10000100000000060000000001119243_0.smil
+
+
+#EXTINF:0 CUID="3030" tvg-name="内蒙古卫视HD" tvg-id="内蒙古卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/neimenggu.png" group-title="本地频道",内蒙古卫视HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226078/10000100000000060000000000662786_0.smil
+#EXTINF:0 CUID="3036" tvg-name="内蒙古新闻综合HD" tvg-id="内蒙古新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/neimengguxinwen.png" group-title="本地频道",内蒙古新闻综合HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226109/10000100000000060000000000784890_0.smil
+#EXTINF:0 CUID="3037" tvg-name="内蒙古经济生活HD" tvg-id="内蒙古经济生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/neimenggujingji.png" group-title="本地频道",内蒙古经济生活HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226113/10000100000000060000000000784886_0.smil
+#EXTINF:0 CUID="3038" tvg-name="内蒙古文体娱乐HD" tvg-id="内蒙古文体娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/neimengguwenti.png" group-title="本地频道",内蒙古文体娱乐HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226111/10000100000000060000000000784888_0.smil
+#EXTINF:0 CUID="3039" tvg-name="内蒙古农牧频道HD" tvg-id="内蒙古农牧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/neimenggunongmu.png" group-title="本地频道",内蒙古农牧频道HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226112/10000100000000060000000000784887_0.smil
+#EXTINF:0 CUID="3040" tvg-name="内蒙古少儿频道HD" tvg-id="内蒙古少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/neimenggushaoer.png" group-title="本地频道",内蒙古少儿频道HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226108/10000100000000060000000000784891_0.smil
+#EXTINF:0 CUID="3041" tvg-name="呼和浩特新闻综合HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/huhehaotexinwen.png" group-title="本地频道",呼和浩特新闻综合HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226585/10000100000000060000000001126204_0.smil
+#EXTINF:0 CUID="3042" tvg-name="呼和浩特都市生活HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/huhehaotedushi.png" group-title="本地频道",呼和浩特都市生活HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226587/10000100000000060000000001126205_0.smil
+#EXTINF:0 CUID="3043" tvg-name="呼和浩特影视娱乐HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/huhehaoteyingshi.png" group-title="本地频道",呼和浩特影视娱乐HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226594/10000100000000060000000001126199_0.smil
+#EXTINF:0 CUID="3044" tvg-name="包头新闻综合HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/baotouxinwen.png" group-title="本地频道",包头新闻综合HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226577/10000100000000060000000001125938_0.smil
+#EXTINF:0 CUID="3045" tvg-name="包头经济频道HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/baotoujingji.png" group-title="本地频道",包头经济频道HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226100/10000100000000060000000000753859_0.smil
+#EXTINF:0 CUID="3046" tvg-name="包头生活服务HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/baotoushenghuo.png" group-title="本地频道",包头生活服务HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226600/10000100000000060000000001125937_0.smil
+#EXTINF:0 CUID="3047" tvg-name="鄂尔多斯新闻综合HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/eedsxwzh.png" group-title="本地频道",鄂尔多斯新闻综合HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226624/10000100000000060000000001126373_0.smil
+#EXTINF:0 CUID="3048" tvg-name="鄂尔多斯经济服务HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/eedsjjfw.png" group-title="本地频道",鄂尔多斯经济服务HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226591/10000100000000060000000001126372_0.smil
+#EXTINF:0 CUID="3049" tvg-name="鄂尔多斯城市生活HD " tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/eedscssh.png" group-title="本地频道",鄂尔多斯城市生活HD 
+rtsp://10.11.43.21/PLTV/88888912/224/3221226628/10000100000000060000000001126371_0.smil
+#EXTINF:0 CUID="3050" tvg-name="鄂尔多斯蒙语频道HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/eedsmy.png" group-title="本地频道",鄂尔多斯蒙语频道HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226593/10000100000000060000000001126370_0.smil
+#EXTINF:0 CUID="3067" tvg-name="巴彦淖尔新闻综合HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/bayannaoerxwzh.png" group-title="本地频道",巴彦淖尔新闻综合HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226616/10000100000000060000000001126285_0.smil
+#EXTINF:0 CUID="3066" tvg-name="巴彦淖尔经济生活HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/bayannaoerjjsh.png" group-title="本地频道",巴彦淖尔经济生活HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226589/10000100000000060000000001126284_0.smil
+#EXTINF:0 CUID="3065" tvg-name="巴彦淖尔影视娱乐HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/bayannaoerysyl.png" group-title="本地频道",巴彦淖尔影视娱乐HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226620/10000100000000060000000001126283_0.smil
+#EXTINF:0 CUID="3052" tvg-name="乌海新闻综合HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/wuhaixwzh.png" group-title="本地频道",乌海新闻综合HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226598/10000100000000060000000001126203_0.smil
+#EXTINF:0 CUID="3051" tvg-name="乌海都市生活HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/wuhaidssh.png" group-title="本地频道",乌海都市生活HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226612/10000100000000060000000001126202_0.smil
+#EXTINF:0 CUID="3072" tvg-name="锡林郭勒1HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/nmgxlgl1.png" group-title="本地频道",锡林郭勒1HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226595/10000100000000060000000001126563_0.smil
+#EXTINF:0 CUID="3071" tvg-name="锡林郭勒2HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/nmgxlgl2.png" group-title="本地频道",锡林郭勒2HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226599/10000100000000060000000001126561_0.smil
+#EXTINF:0 CUID="3054" tvg-name="呼伦贝尔新闻综合HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/hulunbeierxwzh.png" group-title="本地频道",呼伦贝尔新闻综合HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226590/10000100000000060000000001125948_0.smil
+#EXTINF:0 CUID="3053" tvg-name="呼伦贝尔生活资讯HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/hulunbeiershzx.png" group-title="本地频道",呼伦贝尔生活资讯HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226581/10000100000000060000000001126189_0.smil
+#EXTINF:0 CUID="3055" tvg-name="呼伦贝尔文化旅游HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/hulunbeierwhly.png" group-title="本地频道",呼伦贝尔文化旅游HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226575/10000100000000060000000001125947_0.smil
+#EXTINF:0 CUID="3056" tvg-name="赤峰影视娱乐HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/chifengysyl.png" group-title="本地频道",赤峰影视娱乐HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226601/10000100000000060000000001126725_0.smil
+#EXTINF:0 CUID="3057" tvg-name="赤峰经济服务HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/chifengjjfw.png" group-title="本地频道",赤峰经济服务HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226602/10000100000000060000000001126726_0.smil
+#EXTINF:0 CUID="3058" tvg-name="赤峰新闻综合HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/chifengxwzh.png" group-title="本地频道",赤峰新闻综合HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226597/10000100000000060000000001126727_0.smil
+#EXTINF:0 CUID="3062" tvg-name="通辽新闻综合HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/tongliaoxwzh.png" group-title="本地频道",通辽新闻综合HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226636/10000100000000060000000001126450_0.smil
+#EXTINF:0 CUID="3064" tvg-name="通辽蒙语频道HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/tongliaomy.png" group-title="本地频道",通辽蒙语频道HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226640/10000100000000060000000001126451_0.smil
+#EXTINF:0 CUID="3063" tvg-name="通辽城市服务" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/tongliaocsfw.png" group-title="本地频道",通辽城市服务
+rtsp://10.11.43.21/PLTV/88888912/224/3221226632/10000100000000060000000001126452_0.smil
+#EXTINF:0 CUID="3059" tvg-name="乌兰察布新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/wlcbxwzh.png" group-title="本地频道",乌兰察布新闻综合
+rtsp://10.11.43.21/PLTV/88888912/224/3221226608/10000100000000060000000001126186_0.smil
+#EXTINF:0 CUID="3060" tvg-name="乌兰察布经济生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/wlcbjjsh.png" group-title="本地频道",乌兰察布经济生活
+rtsp://10.11.43.21/PLTV/88888912/224/3221226579/10000100000000060000000001126187_0.smil
+#EXTINF:0 CUID="3068" tvg-name="兴安盟影视娱乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/nmgxamysyl.png" group-title="本地频道",兴安盟影视娱乐
+rtsp://10.11.43.21/PLTV/88888912/224/3221226606/10000100000000060000000001126808_0.smil
+#EXTINF:0 CUID="3069" tvg-name="兴安盟文化旅游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/nmgxamwhly.png" group-title="本地频道",兴安盟文化旅游
+rtsp://10.11.43.21/PLTV/88888912/224/3221226644/10000100000000060000000001126809_0.smil
+#EXTINF:0 CUID="3070" tvg-name="兴安盟新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/nmgxamxwzh.png" group-title="本地频道",兴安盟新闻综合
+rtsp://10.11.43.21/PLTV/88888912/224/3221226605/10000100000000060000000001126810_0.smil
+#EXTINF:0 CUID="3073" tvg-name="阿拉善新闻综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/nmgalsxwzh.png" group-title="本地频道",阿拉善新闻综合
+rtsp://10.11.43.21/PLTV/88888912/224/3221226573/10000100000000060000000001125899_0.smil
+#EXTINF:0 CUID="3077" tvg-name="苏尼特右旗电视台HD" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/nmgsntyq.png" group-title="本地频道",苏尼特右旗电视台HD
+rtsp://10.11.43.21/PLTV/88888912/224/3221226604/10000100000000060000000001125946_0.smil
+#EXTINF:0 CUID="3076" tvg-name="满洲里电视台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/nmgmzl.png" group-title="本地频道",满洲里电视台
+rtsp://10.11.43.21/PLTV/88888912/224/3221226603/10000100000000060000000001126867_0.smil
