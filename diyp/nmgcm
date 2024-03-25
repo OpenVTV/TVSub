@@ -43,19 +43,12 @@ CCTV5+,http://39.136.35.18:6610/000000001000/5000000011000031127/index.m3u8?fmt=
 甘肃卫视,http://39.136.35.18:6610/000000001000/5000000011000031121/index.m3u8?fmt=ts2hls
 吉林卫视,http://39.136.35.18:6610/000000001000/5000000011000031117/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://39.136.35.18:6610/000000001000/5000000004000025203/index.m3u8?fmt=ts2hls
+内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 宁夏卫视,http://39.136.35.18:6610/000000001000/5000000006000040022/index.m3u8?fmt=ts2hls
 山西卫视,http://39.136.35.18:6610/000000001000/5000000006000040023/index.m3u8?fmt=ts2hls
 陕西卫视,http://39.136.35.18:6610/000000001000/5000000006000040017/index.m3u8?fmt=ts2hls
 新疆卫视,http://39.136.35.18:6610/000000001000/5000000006000040018/index.m3u8?fmt=ts2hls
 青海卫视,http://39.136.35.18:6610/000000001000/5000000006000040015/index.m3u8?fmt=ts2hls
-
-本地频道,#genre#
-内蒙古卫视,http://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-内蒙古新闻综合,http://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-内蒙古经济生活,http://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-内蒙古文体娱乐,http://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-内蒙古农牧频道,http://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-内蒙古少儿频道,http://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 
 其他频道,#genre#
 CCTV164K,http://39.136.35.18:6610/000000001000/5000000008000023254/index.m3u8?fmt=ts2hls
