@@ -5,8 +5,8 @@ http://192.168.50.33:4022/rtp/239.253.92.181:6046
 #EXTINF:0 CUID="2989" tvg-name="测试3" tvg-id="CCTV1" tvg-logo="https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV1.png" group-title="央视频道",测试3
 http://192.168.50.33:4022/rtp/239.253.93.231:6409
 #EXTINF:0 CUID="2989" tvg-name="测试4" tvg-id="CCTV1" tvg-logo="https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV1.png" group-title="央视频道",测试4
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-1/1.m3u8?channel-id=ystenlive&Contentid=cctv-1&livemode=1
+rtsp://10.7.90.172/PLTV/88888888/224/3221225663/723222.smil
 #EXTINF:0 CUID="2989" tvg-name="测试5" tvg-id="CCTV1" tvg-logo="https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV1.png" group-title="央视频道",测试5
-rtsp://10.0.3.74/PLTV/88888888/224/3221225663/723222.smil
+http://10.7.90.172/PLTV/88888888/224/3221225705/723183.smil/index.m3u8?fmt=ts2hls
 #EXTINF:0 CUID="2989" tvg-name="测试6" tvg-id="CCTV1" tvg-logo="https://raw.githubusercontent.com/Jennie324/tvlogo/main/Picon/CCTV1.png" group-title="央视频道",测试6
-http://10.0.3.74/PLTV/88888888/224/3221225663/723222.smil/index.m3u8?fmt=ts2hls
+
